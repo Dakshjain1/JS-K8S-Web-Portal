@@ -38,4 +38,4 @@ Then you can use the portal to -
 * Delete particular/all resources
  
 Rest you can explore in the images below - 
-
+![website_img](https://github.com/Dakshjain1/JS-K8S-Web-Portal/raw/main/k8sweb.png)
